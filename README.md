@@ -1,5 +1,5 @@
 # Lab 3 - Visibility Graph Path Planning
-Lab 3 for [COMSW4733 Computational Aspects of Robotics](http://www.cs.columbia.edu/~allen/F18/index.html) at Columbia University (Instructor: [Prof. Peter Allen](http://www.cs.columbia.edu/~allen/)).
+Lab 3 for [COMSW4733 Computational Aspects of Robotics](https://www.cs.columbia.edu/~allen/F19/) at Columbia University (Instructor: [Prof. Peter Allen](http://www.cs.columbia.edu/~allen/)).
 
 ## Introduction
 In this lab, you are required to implement visibility graph (vgraph) path planning algorithm using the ArbotiX turtlebot simulator and visualize the graph and robot path following in RViz.
